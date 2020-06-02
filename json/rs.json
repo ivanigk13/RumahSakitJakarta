@@ -3145,7 +3145,10 @@
                 "email": "budhiasih@ymail.com",
                 "kode_kota": 3172,
                 "kode_kecamatan": 3172050,
-                "kode_kelurahan": 3172050007
+                "kode_kelurahan": 3172050007,
+                "kamar1":null,
+                "kamar2":null,
+                "kamar3":null
             },
             "geometry": {
                 "type": "Point",
